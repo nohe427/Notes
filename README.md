@@ -25,7 +25,7 @@ I am not saying that HTML is not easy or not quick, but with Python, it comes mo
   ```
   Python 2.7:
   ```python
-  print("Hello World!")
+  print "Hello World!"
   ```
 ## 3.  It builds the foundation for STEM majors.
 A lot of STEM majors rely on some sort of object oriented programming to advance their research and knowledge on a topic.  Learning the basics of a language that is commonly used in STEM majors will provide the children a chance to be ahead of other children entering the same degree program without that knowledge.  Using a OOP based language would be second nature to them.  Using a declarative language like HTML will not provide the opportunities for problem solving like that of an Object-oriented language like Python.
